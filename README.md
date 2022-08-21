@@ -1,2 +1,2 @@
 # ravi
-this repository is foe practice purpose only
+this repository is for practice purpose only
